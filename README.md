@@ -1,4 +1,5 @@
 Shelly Pro 3EM into Victron DBUS
+based on: https://github.com/fabian-lauer/dbus-shelly-3em-smartmeter
 
 Installation:
 ```
